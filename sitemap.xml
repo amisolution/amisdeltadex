@@ -4,31 +4,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
     http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd/sitemap.xsd">
  <url>
-  <loc>https://forkdelta.github.io/</loc>
+  <loc>https://amisolution.github.io/amisdeltadex</loc>
  </url>
  <url>
-  <loc>https://forkdelta.github.io/about/</loc>
+  <loc>https://amisolution.github.io/amisdeltadex/about/</loc>
  </url>
  <url>
-  <loc>https://forkdelta.github.io/#!/trade/0ED-ETH</loc>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/0ED-ETH</loc>
  </url>
  <url>
-  <loc>https://forkdelta.github.io/#!/trade/10MT-ETH</loc>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/10MT-ETH</loc>
  </url>
  <url>
-  <loc>https://forkdelta.github.io/#!/trade/10MTI-ETH</loc>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/10MTI-ETH</loc>
  </url>
  <url>
-  <loc>https://forkdelta.github.io/#!/trade/1BIT-ETH</loc>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/1BIT-ETH</loc>
  </url>
  <url>
-  <loc>https://forkdelta.github.io/#!/trade/1KT-ETH</loc>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/1KT-ETH</loc>
  </url>
  <url>
-  <loc>https://forkdelta.github.io/#!/trade/1LIFE-ETH</loc>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/1LIFE-ETH</loc>
  </url>
  <url>
-  <loc>https://forkdelta.github.io/#!/trade/1ST-ETH</loc>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/1ST-ETH</loc>
  </url>
  <url>
   <loc>https://forkdelta.github.io/#!/trade/1WO-ETH</loc>
@@ -109,7 +109,16 @@
   <loc>https://forkdelta.github.io/#!/trade/ALTS-ETH</loc>
  </url>
  <url>
-  <loc>https://forkdelta.github.io/#!/trade/AMB-ETH</loc>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/AMB-ETH</loc>
+ </url>
+ <url>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/AMIS-ETH</loc>
+ </url>
+ <url>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/ETH-AMIS</loc>
+ </url>
+ <url>
+  <loc>https://amisolution.github.io/amisdeltadex/#!/trade/AMIS-DAI</loc>
  </url>
  <url>
   <loc>https://forkdelta.github.io/#!/trade/AMM-ETH</loc>
